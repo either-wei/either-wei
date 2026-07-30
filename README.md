@@ -1,4 +1,4 @@
-## Hi there 👋
+Just managing my profile README for the first time.
 
 <!--
 **technicalwei/technicalwei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
