@@ -1,5 +1,4 @@
-Hi there, just testing!
-
+Hi there, I'm just learning!
 <!--
 **technicalwei/technicalwei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
